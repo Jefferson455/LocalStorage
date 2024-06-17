@@ -112,4 +112,3 @@ function deleteTweet(id) {
 
      console.log(tweets);
 }
-
